@@ -8,13 +8,16 @@ Além disso, o site irá ajudar na falta de conhecimento sobre os cuidados bási
 
 * João Pedro de Meireles Alves
 * Paulo Henrique Braga Pessoa
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Rafael Lage Schichman
+* Rafael Lucca Marques
+* Rafael Correa Fernandes
+* Arthur Campos Pereira
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Luciana Mara Freitas Diniz
+* Rafael Glater da Cruz Machado
+* Rommel Vieira Carneiro
 
 ## Instruções de utilização
 
