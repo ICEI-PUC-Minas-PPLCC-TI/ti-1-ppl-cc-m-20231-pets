@@ -92,7 +92,9 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 ![Exemplo de Persona](images/persona1.png)
 
-(images/persona2.png)
+![Exemplo de Persona2](images/persona2.png)
+
+![Exemplo de Persona3](images/persona3.png)
 
 ## Histórias de Usuários
 
