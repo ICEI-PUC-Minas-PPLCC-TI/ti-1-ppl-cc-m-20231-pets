@@ -19,6 +19,4 @@ Além disso, o site irá ajudar na falta de conhecimento sobre os cuidados bási
 * Rafael Glater da Cruz Machado
 * Rommel Vieira Carneiro
 
-## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
