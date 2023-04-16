@@ -98,23 +98,22 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                                              |
+|--------------------|------------------------------------|----------------------------------------                             |
+|Maria Luísa         | Eu gostaria de adotar um gato.     | “Na minha opinião, os gatos são criaturas adoráveis e afetuosas.    |
+|                    |                                    |  Mesmo que cuidar de um gatinho seja uma grande responsabilidade,   |
+|                    |                                    |  ainda sim gostaria de adotar, seria muito gratificante e divertido.|                                                      
+|Hélio Dias          | Eu estou interessado em adotar um  | Para mim ter um cão seria uma excelente forma de ter companhia em   |
+|                    | cãozinho de porte pequeno e com um | casa. Os cães são animais muito sociais e gostam de interagir com   |
+|                    | temperamento tranquilo.            | seus donos.                                                         |       
 
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+|Cristiano Marques   | Eu sou muito fã de cães, acho que  | Sempre tive grande apreço por cachorros e os considero excelentes   |
+|                    | teria um mais um em casa.          | companheiros. A adoção de animais, em vez de comprá-los, é          |
+|                    |                                    | fundamental para ajudar a reduzir o número de bichinhos abandonados |
+|                    |                                    | nas ruas.                                                           |    
+                                         
 
 ## Requisitos
 
