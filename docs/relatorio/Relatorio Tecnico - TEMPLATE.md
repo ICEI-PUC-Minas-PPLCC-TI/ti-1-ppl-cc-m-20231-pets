@@ -108,15 +108,18 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
                                          
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir.
 
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+|RF-001| O site deve apresentar uma página principal para o usuário encontrar o animal que deseja. | ALTA | 
+|RF-002| O site deve apresentar, para cada animal, uma imagem.   | ALTA |
+|RF-003| O site deve permitir ao usuário visualizar uma descrição completa do animal e do contato do doador. | ALTA |
+|RF-004| O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um animal específico. | ALTA |
+|RF-005| O site deve permitir visualizar as informações de contatos do mantenedor do site. | BAIXA |
+|RF-006| O site deve possuir um formulário que permita ao usuário enviar informações sobre um animal que ele deseja colocar para adoção. | MÉDIA |
 
 ### Requisitos não Funcionais
 
