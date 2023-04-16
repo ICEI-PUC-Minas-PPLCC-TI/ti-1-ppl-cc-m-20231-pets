@@ -181,7 +181,7 @@ A barra lateral será utilizada para a filtragem do conteúdo que o usuário qui
 
 Após a apresentação de todas as ideias e a reunião de todos os dados, o wireframe final foi definido baseado em todas as informações obtidas pelo grupo, e assim ele foi definido: 
 
-![WireframeFinal](images/wireframe.png)
+![WireframeFinal](images/wireframe.jpg)
 
 
 # Metodologia
