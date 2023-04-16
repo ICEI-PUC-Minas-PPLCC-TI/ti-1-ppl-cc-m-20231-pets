@@ -148,9 +148,7 @@ O projeto de interface foi pensado em conjunto visando algo otimizado e totalmen
 
 Wireframe pode ser definido como um modelo simplificado de uma estrutura de uma possível interface para o seu usuário. Utilizamos o wireframe para planejar e projetar as funcionalidades que estarão no site. Também foi possível utilizar as pessoas do mapa de stakeholders para obter um feedback antes de lançar o projeto.
 
-![Exemplo de Wireframe](images/wireframe.jpg)
-
-**PROTÓTIPO**
+**PROTÓTIPO DO WIREFRAME**
 
 ![Protótipo](images/prototipo.png)
 
@@ -158,7 +156,32 @@ Wireframe pode ser definido como um modelo simplificado de uma estrutura de uma 
 - Conteúdo: Aqui ficara o conteúdo principal do site, onde buscaremos manter a atenção do usuário.
 - Barra Lateral: Elemente de navegação lateral para o usuário filtrar o que for melhor para sua procurar no site.
 
+**CONTEÚDO**
 
+Com base na estrutura padrão, a página inicial do conteúdo irá destacar para o usuário uma lista de animais e suas especificações subjetivas, além de uma opção para vizualizar mais sobre.
+
+![Conteúdo](images/conteúdo.png)
+
+**CABEÇALHO**
+
+A aba de cabeçalho como já foi explicado anteriormente, estará disposta de uma logo marca oficial do nosso produto. Além de um menu interativo para que os usuários consigam se localizar facilmente.
+
+![Cabeçalho](images/cabeçalho.png)
+
+**BARRA LATERAL**
+
+A barra lateral será utilizada para a filtragem do conteúdo que o usuário quiser visualizar de acordo com sua preferência, nela está disponível: 
+- Uma filtragem de espécies
+- Uma filtragem para a raça
+- Uma filtragem para a idade
+
+![BarraLateral](images/barra_lateral.png)
+
+**Versão Final do Wireframe**
+
+Após a apresentação de todas as ideias e a reunião de todos os dados, o wireframe final foi definido baseado em todas as informações obtidas pelo grupo, e assim ele foi definido: 
+
+![WireframeFinal](images/wireframe.png)
 
 
 # Metodologia
