@@ -102,9 +102,9 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                                              |
 |--------------------|------------------------------------|----------------------------------------                             |
-|Maria Luísa         | Eu gostaria de adotar um gato.     | Na minha opinião, os gatos são criaturas adoráveis e afetuosas.      
-                                                            Mesmo que cuidar de um gatinho seja uma grande responsabilidade,   
-                                                            ainda sim gostaria de adotar, seria muito gratificante e divertido.|                                                      
+|Maria Luísa         | Eu gostaria de adotar um gato.     | Na minha opinião, os gatos são criaturas adoráveis e afetuosas. Mesmo que cuidar de um gatinho seja uma grande responsabilidade, ainda sim gostaria de adotar, seria muito gratificante e divertido.|      
+                                                             
+                                                                                                                
 |Hélio Dias          | Eu estou interessado em adotar um  | Para mim ter um cão seria uma excelente forma de ter companhia em   |
 |                    | cãozinho de porte pequeno e com um | casa. Os cães são animais muito sociais e gostam de interagir com   |
 |                    | temperamento tranquilo.            | seus donos.                                                         |       
