@@ -92,6 +92,8 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 ![Exemplo de Persona](images/persona1.png)
 
+(images/persona2.png)
+
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
