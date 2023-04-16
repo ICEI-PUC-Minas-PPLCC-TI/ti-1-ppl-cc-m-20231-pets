@@ -1,21 +1,22 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+`PET GETS`  
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-`CURSO` 
+`CIÊNCIA DA COMPUTAÇÃO` 
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Os membros do grupo são:
+- João Pedro de Meireles Alves
+- Paulo Henrique Braga Pessoa
+- Rafael Lage Schichman
+- Rafael Lucca Marques
+- Rafael Correa Fernandes
+- Arthur Campos Pereira
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
 
 # Estrutura do Documento
 
