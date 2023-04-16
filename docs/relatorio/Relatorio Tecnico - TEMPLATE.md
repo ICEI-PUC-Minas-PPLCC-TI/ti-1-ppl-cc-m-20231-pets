@@ -1,11 +1,9 @@
 # Informações do Projeto
 `PET GETS`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Trabalho Interdisciplinar 
 
 `CIÊNCIA DA COMPUTAÇÃO` 
-
-......  COLOQUE AQUI O SEU TEXTO ......
 
 ## Participantes
 
@@ -54,6 +52,13 @@ Os membros do grupo são:
 
 
 # Introdução
+
+
+ Ao longo das últimas décadas, índices mundiais de problemas como a solidão e depressão vem sofrendo um aumento considerável. Assim, há uma clara antítese entre o paradigma atual de integração social através da tecnologia, e o real sentimento de acolhimento daqueles que desfrutam dessas tecnologias.
+ Nesse contexto, é possível apontar a adoção de animais de estimação como uma solução para aqueles que sofrem com as mazelas previamente apresentadas. E, por essa razão, é pertinente que se desenvolvam métodos para facilitar e simplificar esse processo de adoção, de modo a torná-lo mais acessível e atrativo àqueles que poderiam se beneficiar dele.
+ Além disso, não se pode esquecer da imensa importância da adoção para animais de rua e em situação de abandono, que agora passariam a desfrutar de moradia, alimentação, cuidado veterinário e afeto, além de livrá-los dos diversos perigos e prejuízos que encontram nas ruas.
+ Por outro lado, há ainda a necessidade de garantir que o animal adotado receba um tratamento de qualidade e, para isso, o novo dono deve ser devidamente instruído sobre como cuidar desse animal específico.
+
 
 ## Problema
 
