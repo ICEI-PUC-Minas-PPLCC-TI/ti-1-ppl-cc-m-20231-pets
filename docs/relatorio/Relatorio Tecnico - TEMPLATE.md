@@ -148,7 +148,7 @@ O projeto de interface foi pensado em conjunto visando algo otimizado e totalmen
 
 Wireframe pode ser definido como um modelo simplificado de uma estrutura de uma possível interface para o seu usuário. Utilizamos o wireframe para planejar e projetar as funcionalidades que estarão no site. Também foi possível utilizar as pessoas do mapa de stakeholders para obter um feedback antes de lançar o projeto.
 
-![Exemplo de Wireframe](images/wireframe.png)
+![Exemplo de Wireframe](images/wireframe.jpg)
 
 **PROTÓTIPO**
 
