@@ -219,10 +219,10 @@ A equipe está organizada da seguinte maneira:
   - Scrum Master: Paulo Henrique Braga Pessoa
   - Product Owner: Rafael Lage Schichman
   - Equipe de Desenvolvimento:
-    Rafael Lucca Marques Vasconcelos
-    Rafael Correa 
-    Arthur Campos Pereira
-    João Pedro de Meireles Alves
+    - Rafael Lucca Marques Vasconcelos
+    - Rafael Correa 
+    - Arthur Campos Pereira
+    - João Pedro de Meireles Alves
 
 ## Ferramentas
 
