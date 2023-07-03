@@ -284,11 +284,6 @@ Os testes ajudaram a visualizar na prática as ideias que seriam possíveis de s
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
+## Sites utilizados para a busca do problema
 
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+> Brasil tem cerca de 185 mil animais abandonados ou resgatados após maus-tratos https://caesegatos.com.br/brasil-tem-cerca-de-185-mil-animais-abandonados-ou-resgatados-apos-maus-tratos/
