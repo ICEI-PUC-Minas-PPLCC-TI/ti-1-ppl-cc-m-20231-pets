@@ -265,7 +265,7 @@ Além disso, o usuário encontrará em nosso site uma aba de formulário, onde e
 
 ## Plano de Testes
 
-| ID | CENÁRIO | REQUISITO RELACIONADO |
+| ID | POSSIBILIDADES | REQUISITOS |
 |----|---------|-----------------------|
 | 1 | Exibir uma lista de cards de animais disponíveis para adoção. | RF-01 |
 | 1 | Exibir uma lista de cards de casas de adoção | RF-01 |
