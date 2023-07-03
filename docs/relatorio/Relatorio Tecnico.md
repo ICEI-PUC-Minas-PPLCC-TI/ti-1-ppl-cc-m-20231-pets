@@ -257,6 +257,7 @@ A equipe está organizada da seguinte maneira:
 > ![Arquitetura](images/Arquitetura.png)
 >
 Ao entrar no site o usuário irá visualizar de cara a home page, isso foi pensado para facilitar o uso para os diveros públicos alvos do nosso projeto. O usuário terá a sua disposição diversas abas para navegar no site, um exemplo é aba de filtros, onde é feita a filtragem por Espécie, Sexo e Idade.
+>
 Além disso, o usuário encontrará em nosso site uma aba de formulário, onde ele pode colocar seu animalzinho para adoção. Outra aba para visualizar as instituições de adoção que estão disponíveis para ser feito um contato. 
 
 
