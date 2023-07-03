@@ -237,7 +237,19 @@ A equipe está organizada da seguinte maneira:
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+|            TIPO               |         NOME        |
+|-------------------------------|---------------------|
+| Linguagem de marcação         |         HTML        |
+| Linguagem de programação      |      JavaScript     |
+| Estilização                   |         CSS         | 
+| Biblioteca para armazenamento |        jQuery       |
+| IDE                           |       VS Code       |
+| Organização dos códigos       |         Git         |
+| Controle de Versão            |        GitHub       |
+| Hospedagem                    |         Repl        |
+
+
+
 
 ## Tecnologias Utilizadas
 
