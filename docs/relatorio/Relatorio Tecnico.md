@@ -276,24 +276,10 @@ Além disso, o usuário encontrará em nosso site uma aba de formulário, onde e
 | 4 | Incluir um botão "Ver mais" em cada card de animal que leva para um pagina de descrição.| RF-04 |
 | 4 | Incluir um botão "Ver mais" em cada card de casa de adoção, que abre um pop-up com mais informações.| RF-04 |
 
-## Ferramentas de Testes (Opcional)
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
 
 ## Registros de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
+Os testes ajudaram a visualizar na prática as ideias que seriam possíveis de serem realizadas e também as ideias que precisariam ser modificadas. Foi um processo difícil mas ajudou bastante a entender como seria o processo de realização profissional da criação de um projeto.
 
 
 # Referências
