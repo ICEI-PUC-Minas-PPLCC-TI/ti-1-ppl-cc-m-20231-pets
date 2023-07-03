@@ -263,25 +263,18 @@ Além disso, o usuário encontrará em nosso site uma aba de formulário, onde e
 
 # Avaliação da Aplicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
-
 ## Plano de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
+| ID | CENÁRIO | REQUISITO RELACIONADO |
+|----|---------|-----------------------|
+| 1 | Exibir uma lista de cards de animais disponíveis para adoção. | RF-01 |
+| 1 | Exibir uma lista de cards de casas de adoção | RF-01 |
+| 2 | Incluir uma barra de pesquisa para permitir que os usuários pesquisem animais por nome, espécie, raça, etc. | RF-02 |
+| 2 | Permitir que as casas de adoção se cadastrem no site, fornecendo informações como nome, endereço, contato, etc. | RF-02 |
+| 3 | Implementar filtros para permitir que os usuários refinem a pesquisa por critérios específicos, como espécie, idade, tamanho, etc.| RF-03 |
+| 3 | Incluir uma barra de pesquisa para permitir que os usuários pesquisem casas de adoção por nome, localização, etc.| RF-03 |
+| 4 | Incluir um botão "Ver mais" em cada card de animal que leva para um pagina de descrição.| RF-04 |
+| 4 | Incluir um botão "Ver mais" em cada card de casa de adoção, que abre um pop-up com mais informações.| RF-04 |
 
 ## Ferramentas de Testes (Opcional)
 
