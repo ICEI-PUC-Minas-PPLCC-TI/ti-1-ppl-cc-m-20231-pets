@@ -254,8 +254,6 @@ A equipe está organizada da seguinte maneira:
 ## Arquitetura da solução
 
 > 
-> **Exemplo do diagrama de Arquitetura**:
-> 
 > ![Arquitetura](images/Arquitetura.png)
 >
 > Ao entrar no site o usuário irá visualizar de cara a home page, isso foi pensado para facilitar o uso para os diveros públicos alvos do nosso projeto. O usuário terá a sua disposição diversas abas para navegar no site, um exemplo é aba de filtros, onde é feita a filtragem por Espécie, Sexo e Idade.
