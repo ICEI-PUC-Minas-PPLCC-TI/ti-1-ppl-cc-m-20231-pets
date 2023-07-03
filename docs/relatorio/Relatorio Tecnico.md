@@ -237,6 +237,9 @@ A equipe está organizada da seguinte maneira:
 
 # Projeto da Solução
 
+
+## Tecnologias Utilizadas
+
 |            TIPO               |         NOME        |
 |-------------------------------|---------------------|
 | Linguagem de marcação         |         HTML        |
@@ -248,26 +251,6 @@ A equipe está organizada da seguinte maneira:
 | Controle de Versão            |        GitHub       |
 | Hospedagem                    |         Repl        |
 
-
-
-
-## Tecnologias Utilizadas
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
-
 ## Arquitetura da solução
 
 ......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
@@ -277,7 +260,7 @@ A equipe está organizada da seguinte maneira:
 > 
 > **Exemplo do diagrama de Arquitetura**:
 > 
-> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
+> (images/Arquitetura.png)
 
 
 # Avaliação da Aplicação
