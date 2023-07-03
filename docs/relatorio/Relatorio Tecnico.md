@@ -260,7 +260,7 @@ A equipe está organizada da seguinte maneira:
 > 
 > **Exemplo do diagrama de Arquitetura**:
 > 
-> (images/Arquitetura.png)
+> ![Arquitetura](images/Arquitetura.png)
 
 
 # Avaliação da Aplicação
