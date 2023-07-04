@@ -232,8 +232,6 @@ A equipe está organizada da seguinte maneira:
 |Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20231-pets | 
 |Protótipo Interativo | MavelApp ou Figma | https://www.figma.com/file/vOfHaCpzDplgBNtKMsL5Dy/Untitled?node-id=0%3A1&t=wTTWRs2SQfOkUVX7-1 | 
 
-# **############## SPRINT 1 ACABA AQUI #############**
-
 
 # Projeto da Solução
 
