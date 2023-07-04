@@ -287,3 +287,9 @@ Os testes ajudaram a visualizar na prática as ideias que seriam possíveis de s
 ## Sites utilizados para a busca do problema
 
 > Brasil tem cerca de 185 mil animais abandonados ou resgatados após maus-tratos https://caesegatos.com.br/brasil-tem-cerca-de-185-mil-animais-abandonados-ou-resgatados-apos-maus-tratos/
+
+> Brasil tem 30 milhões de animais abandonados https://www.jusbrasil.com.br/noticias/brasil-tem-30-milhoes-de-animais-abandonados/100681698
+
+> Brasil fica em 1º lugar entre 28 países, em ranking dos que mais sentem solidão https://www.ipsos.com/pt-br/brasil-fica-em-1o-lugar-entre-28-paises-em-ranking-dos-que-mais-sentem-solidao
+
+> Mais de 400 cães e gatos estão disponíveis para adoção em abrigos e na Zoonoses https://www.correiobraziliense.com.br/cidades-df/2023/01/5069741-mais-de-400-caes-e-gatos-estao-disponiveis-para-adocao-em-abrigos-e-na-zoonoses.html
